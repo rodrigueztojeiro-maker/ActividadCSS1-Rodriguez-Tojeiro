@@ -1,4 +1,4 @@
-/* 1. Cambia el color del texto de todos los párrafos (<p>) a azul y usa la fuente
+/* 1. color del texto de todos los párrafos (<p>) azul y la fuente
 "Verdana". */ 
 
 
@@ -9,7 +9,7 @@ p { color: blue; font-family: Verdana; }
 
 
 
-/* 2. Aplica un fondo amarillo y texto en negrita a todos los elementos que tengan la
+/* 2. fondo amarillo y texto en negrita a todos los elementos que tengan la
 clase importante. */ 
 
 .importante { background-color: yellow; font-weight: 800; }
@@ -18,7 +18,7 @@ clase importante. */
 
 
 
-/* 3. Agrega un borde verde sólido de 3 píxeles y un padding de 10 píxeles al elemento
+/* 3. borde verde sólido de 3 píxeles y un padding de 10 píxeles al elemento
 con el ID especial. */ 
 
 
@@ -29,7 +29,7 @@ con el ID especial. */
 
 
 
-/* 4. Establece un margen exterior de 10 píxeles y un margen interior de 5 píxeles para
+/* 4. margen exterior de 10 píxeles y un margen interior de 5 píxeles para
 todos los elementos de la página. */
  { margin: 10px; padding: 5px; }
 
@@ -37,7 +37,7 @@ todos los elementos de la página. */
 
 
 
-/* 5. Haz que los encabezados <h1> y <h2> tengan el mismo estilo: color rojo y texto
+/* 5. los encabezados <h1> y <h2>  mismo estilo: color rojo y texto
 centrado. */ 
 h1,h2 { color: red; 
     text-align:
@@ -47,6 +47,6 @@ center; }
 
 
 
-/* 6. Cambia el color del texto a morado solo para los párrafos (<p>) que tengan la clase
+/* 6. color del texto morado solo para los párrafos (<p>) que tengan la clase
 importante. */ 
 p.importante { color: #BC00FF; }
